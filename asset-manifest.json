@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad-Wiki/static/css/main.f28c04b3.chunk.css",
+    "main.js": "/Breaking-Bad-Wiki/static/js/main.f615f0bc.chunk.js",
+    "main.js.map": "/Breaking-Bad-Wiki/static/js/main.f615f0bc.chunk.js.map",
+    "runtime-main.js": "/Breaking-Bad-Wiki/static/js/runtime-main.83136f4e.js",
+    "runtime-main.js.map": "/Breaking-Bad-Wiki/static/js/runtime-main.83136f4e.js.map",
+    "static/js/2.bd1da422.chunk.js": "/Breaking-Bad-Wiki/static/js/2.bd1da422.chunk.js",
+    "static/js/2.bd1da422.chunk.js.map": "/Breaking-Bad-Wiki/static/js/2.bd1da422.chunk.js.map",
+    "index.html": "/Breaking-Bad-Wiki/index.html",
+    "static/css/main.f28c04b3.chunk.css.map": "/Breaking-Bad-Wiki/static/css/main.f28c04b3.chunk.css.map",
+    "static/js/2.bd1da422.chunk.js.LICENSE.txt": "/Breaking-Bad-Wiki/static/js/2.bd1da422.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Breaking-Bad-Wiki/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/Breaking-Bad-Wiki/static/media/logo.e6ecab44.png",
+    "static/media/spin.3f0945ad.gif": "/Breaking-Bad-Wiki/static/media/spin.3f0945ad.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83136f4e.js",
+    "static/js/2.bd1da422.chunk.js",
+    "static/css/main.f28c04b3.chunk.css",
+    "static/js/main.f615f0bc.chunk.js"
+  ]
+}
